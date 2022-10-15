@@ -1,2 +1,2 @@
-# Data-Science-Practice
+# Data-Science
 Repository holding practice scripts involving data science
